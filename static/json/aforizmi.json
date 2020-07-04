@@ -1,0 +1,17 @@
+{
+    "language": "hr",
+    "buttons": {
+        "go_to_page": "Idi na stranicu"
+    },
+    "banners": [
+	{
+	    "title": "Aforizam tjedna",
+	    "weight": 1,
+	    "alt": "",
+	    "img": "",
+	    "href": "",
+	    "description": "Kada bi izbori mogli nešto promjeniti oni bi bili zabranjeni."
+	}
+    ]
+}
+

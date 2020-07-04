@@ -1,0 +1,17 @@
+{
+    "language": "hr",
+    "buttons": {
+        "go_to_page": "Idi na stranicu"
+    },
+    "banners": [
+	{
+	    "title": "Citat tjedna",
+	    "weight": 1,
+	    "alt": "",
+	    "img": "",
+	    "href": "",
+	    "description": ""
+	}
+    ]
+}
+
