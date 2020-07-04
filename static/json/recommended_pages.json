@@ -1,0 +1,50 @@
+{
+    "new_pages": {
+	"title": "Nove stranice",
+	"list": [
+	    {
+		"title": "Anonimnost na Internetu",
+		"href": "/anonimnost/"
+	    },
+	    {
+		"title": "Mediji",
+		"href": "/mediji/"
+	    }
+	]
+    },
+    "modified_pages": {
+	"title": "Nedavno dopunjene",
+	"list": [
+	    {
+		"title": "Vladavina \"brava\"",
+		"href": "/vladavina-brava/"
+	    }
+	]
+    },
+    "most_read": {
+	"title": "Najčitanije stranice",
+	"list": [
+	    {
+		"title": "Pravni dekalog",
+		"href": "/dekalog/"
+	    },
+	    {
+		"title": "Teze o Hrvatskoj",
+		"href": "/teze/"
+	    }
+	]
+    },
+    "suggested": {
+	"title": "Autori preporučuju",
+	"list": [
+	    {
+		"title": "Anonimnost na Internetu",
+		"href": "/anonimnost/"
+	    },
+	    {
+		"title": "Teze o Hrvatskoj",
+		"href": "/teze/"
+	    }
+	]
+    }
+}
